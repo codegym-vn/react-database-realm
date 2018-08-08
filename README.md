@@ -186,10 +186,6 @@ export default HomePage
 - Chạy chương trình và quan sát kết quả.
 
 
-## Mã nguồn
-
-Tham khảo tại: https://github.com/tutv/rn-realm
-
 # Ảnh demo
 
 ![Home page](/demo/home.png)
